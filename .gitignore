@@ -1,0 +1,9 @@
+# Git ignore
+node_modules/
+dist/
+build/
+.env
+*.log
+__pycache__/
+.vscode/
+.DS_Store
